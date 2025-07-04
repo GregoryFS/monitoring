@@ -1,0 +1,6 @@
+f\gregory\monitoring\starter\MonitoringAutoConfiguration.class
+f\gregory\monitoring\starter\RequestMetricsInterceptor.class
+f\gregory\monitoring\starter\WebMvcConfig.class
+f\gregory\monitoring\starter\MonitoringAutoConfiguration$1.class
+f\gregory\monitoring\starter\DTO\Result.class
+f\gregory\monitoring\starter\MetricResponseBodyAdvice.class
